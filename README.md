@@ -1,2 +1,8 @@
+**
+
 Google Speech-to-Text API
-run src/test.js
+-------------------------
+
+**
+run file test.js by command:
+`node src/test.js`
